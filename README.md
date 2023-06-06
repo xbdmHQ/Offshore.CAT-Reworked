@@ -7,3 +7,7 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 | -- | -- | -- | -- 
 | [https://offshore.cat](https://offshore.cat/) (Official) | Cloudflare | N/A | N/A
 | [https://offshore.xbdm.fun](https://offshore.xbdm.fun) (Scraped The Source) | Cloudflare Workers | N/A | N/A
+
+### Contribute
+- Want to add more offshore list?, Make a issue or pull request
+- Want to also be on the instance list?, Make a issue or pull request
