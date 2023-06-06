@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Offshore HOSTING | The Real Offshore Hosting List</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="./assets/index/css/boostrap.min.css">
+<link rel="stylesheet" href="./assets/index/css/css.css">
+<link rel="stylesheet" href="./assets/index/css/styles.min.css">
+<link rel="stylesheet" href="./assets/index/css/font-awsome.min.css">
+<link rel="stylesheet" href="./assets/index/css/jquery.dataTables.min.css">
+<script src="./assets/js/jquery-3.3.1.js"></script>
+<script src="./assets/js/jquery.dataTables.min.js"></script>
+    <script>
+    $(document).ready(function() {
+    
+        var table = $('#example').DataTable( {
+    "lengthChange": false,
+    "paging": false,
+    "ordering": false,
+    "info": false,
+    language: {
+            searchPlaceholder: "Search records"
+        }
+        } );
+        
+    
+        
+        $("#example tfoot th").each( function ( i ) {
+            var select = $('<select style="text-align: center; margin-top: 10px;"><option value="">Filter</option></select>')
+                .appendTo( $(this).empty() )
+                .on( 'change', function () {
+                    var val = $(this).val();
+      
+                    table.column( i )
+                        .search( val ? '^'+$(this).val()+'$' : val, true, false )
+                        .draw();
+                } );
+     
+            table.column( i ).data().unique().sort().each( function ( d, j ) {
+                select.append( '<option value="'+d+'">'+d+'</option>' )
+            } );
+        } );
+    } );
+        $("li a").on('click', function (e) {
+            $('body').load($(this).attr('href'));
+            e.preventDefault();
+        } );
+    </script>
+    <meta name="description" content="Offshore HOSTING | The Real Offshore Hosting List">
+    </head>
+    <body>
+    <div class="container">
+    <div class="row">
+    <div class="col-sm-10">
+    <div class="widget-box">
+    <p class="section-filters-bar-title"><h1>OFFSHORE<font color="#dc3545">HOSTING</font><br><font style="font-weight:200;" color="white" size="4px"> The Real Offshore Hosting List</font></h1>
+    <ul>
+    <li>
+        <a href="index">
+            <div class="icon activeicon">
+            <i class="fa fa-server" aria-hidden="true"></i>
+            <i class="fa fa-server" aria-hidden="true"></i>
+            </div>
+            <div data-section="#hostings" class="text activetxt"> <span data-text="HOSTINGS">HOSTINGS</span></div>
+            </a>
+            </li>
+            <li>
+            <a href="domains">
+            <div class="icon ">
+            <i class="fa fa-search" aria-hidden="true"></i>
+            <i class="fa fa-search" aria-hidden="true"></i>
+            </div>
+            <div data-section="#domains" class="text "><span data-text="DOMAINS">DOMAINS</span></div>
+            </a>
+            </li>
+            <li>
+            <a href="vpn">
+            <div class="icon ">
+            <i class="fa fa-user-secret" aria-hidden="true"></i>
+            <i class="fa fa-user-secret" aria-hidden="true"></i>
+            </div>
+            <div data-section="#vpn" class="text "><span data-text="VPN">VPN</span></div>
+            </a>
+            </li>
+            <li>
+            <a href="email">
+            <div class="icon ">
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+            </div>
+            <div data-section="#emails" class="text "><span data-text="EMAILS">EMAILS</span></div>
+            </a>
+            </li>
+            <li>
+            <a href="cdn">
+            <div class="icon ">
+            <i class="fa fa-shield" aria-hidden="true"></i>
+            <i class="fa fa-shield" aria-hidden="true"></i>
+            </div>
+            <div data-section="#cdn" class="text "><span data-text="CDN&amp;WAF">CDN/WAF</span></div>
+            </a>
+            </li>
+            </ul>
+            </div>
+            <br>
+            <div class="widget-box">
+            <font color="#dc3545">egirls</font><font color="white"> aren't real. stopped being tricked by feminine males.</font>
+            <table id="example" class="display" width="100%" cellspacing="0">
+                <thead>	
+                    <tr>
+                    <th style="white-space: nowrap;">Name</th>
+                    <th>Website link</th>
+                    <th>Description</th>
+                    <th>Company country</th>
+                    <th>Log policy<font color="yellow">*</font></th>
+                    <th>DMCA</th>
+                    <th>Owns Servers</th>
+                    <th>Payment methods</th>
+                    <th style="width:85px">Status</th>
+                    <th>Last change</th>
+                    </tr>
+                    </thead>
+                    <tfoot>
+                    <tr>
+                    <th style="white-space: nowrap;">Name</th>
+                    <th>Website link</th>
+                    <th>Description</th>
+                    <th>Company country</th>
+                    <th>Log policy<font color="yellow">*</font></th>
+                    <th>DMCA</th>
+                    <th>Owns Servers</th>
+                    <th>Payment methods</th>
+                    <th style="width:85px">Status</th>
+                    <th>Last change</th>
+                    </tr>
+                    </tfoot>
+                    <tbody>
+                    <tr>
+            <td>VSYS</td>
+            <td><a href="https://vsys.host/">vsys.host</a></td>
+            <td>A #1 pick, top tier support & unbiased</td>
+            <td><img src="./assets/index/img/flags_img/ua.png" alt="unknown" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>Yes</td>
+            <td>Crypto, Wire Transfer, Credit Card, PayPal</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-25</td>
+            </tr><tr>
+            <td>AlexHost</td>
+            <td><a href="https://alexhost.com/">alexhost.com</a></td>
+            <td>Used by the infamous Pompompurin</td>
+            <td><img src="./assets/index/img/flags_img/md.png" alt="sx" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>Yes</td>
+            <td>Crypto, Paypal, Visa, Mastercard & more</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-25</td>
+            </tr><tr>
+            <td>Cockbox</td>
+            <td><a href="https://cockbox.org/">cockbox.org</a></td>
+            <td>Owned by Vincent Canfield, current administator of 'cock.li' email service</td>
+            <td><img src="./assets/index/img/flags_img/sx.png" alt="sx" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>Yes</td>
+            <td>Crypto</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-25</td>
+            </tr>
+            <tr>
+            <td>VikHost</td>
+            <td><a href="https://vikhost.com/">vikhost.com</a></td>
+            <td>A real offshore hosting that doesn't ask too many questions</td>
+            <td><img src="./assets/index/img/flags_img/ua.png" alt="sx" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>Yes</td>
+            <td>Crypto, Paypal, Visa & Mastercard</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-25</td>
+            </tr>
+            <td>Shinjiru</td>
+            <td><a href="https://www.shinjiru.com/">shinjiru.com</a></td>
+            <td>Helped protect The Tor Project in 2009, Doxbin certified</td>
+            <td><img src="./assets/index/img/flags_img/my.png" alt="unknown" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>Yes</td>
+            <td>Crypto, Paypal & Credit Card</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-26</td>
+            <tr>
+            <td>PanamaServer</td>
+            <td><a href="https://www.panamaserver.com/">panamaserver.com</a></td>
+            <td>Great owner who helped a friend out of a difficult hosting situation</td>
+            <td><img src="./assets/index/img/flags_img/pa.png" alt="sx" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>Yes</td>
+            <td>Crypto, Paypal, Visa & Mastercard</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-25</td>
+            </tr>
+            <tr>
+            <td>PrivateAlps</td>
+            <td><a href="https://privatealps.net/">privatealps.net</a></td>
+            <td>Your one and only destination for true offshore hosting services, powered by an ethical team of professionals</td>
+            <td><img src="./assets/index/img/flags_img/ch.png" alt="unknown" width="40px"></td>
+            <td>Requires email confirmation</td>
+            <td>Ignored</td>
+            <td>No</td>
+            <td>Crypto</td>
+            <td>✔️ Verified</td>
+            <td>2022-10-25</td>  
+            </tbody>
+            </table>
+            </div>
+            </div>
+            <div class="col-sm-2">
+            <img src="https://a.pomf.cat/zwmafv.png" width="100%">
+            <br><br>
+            <p class="widget-box-title"><font color="#DC3545"><u>About</u></font></p>
+            <div class="widget-box-content" style="margin-top:6px;">
+            <p class="paragraph">Offshore HOSTING is a compiled list of the real & genuine, along with the bad & garbage offshore services that we have either used/have had experience with in the past.<br>
+            We publish these reports because I'm tired of getting asked what hosting they should use.<br>
+            Offshore HOSTING is not affiliated with any of the listed websites, our website takes zero responsibility from illegal or unethical usage.<br>
+            All informations are exposed as-is and might be not up to date if something recently changed. 
+            <br>
+            <br>
+            Offshore HOSTING is a <a href="https://xbdm.fun"><u>xbdm.fun</u></a> Project.
+            <br>
+            <br>
+            </p>
+            <div class="information-line-list">
+            <div class="information-line">
+            <p class="information-line-title">Updated</p>
+            <p class="information-line-text">
+            2023/06/06 </p>
+            </div>
+            <div class="information-line">
+            <p class="information-line-title">Total sites</p>
+            <p class="information-line-text">
+            ** </p>
+            </div>
+            <div class="information-line" style="display: unset;">
+            <p class="information-line-title" style="width: unset;">Legenda</p>
+            <p class="information-line-text">
+            ⭐ <b>Premium</b> - Premium trusted service.<br>
+            ✔️ <b>Verified</b> - Checked service, trusted.<br>
+            💰 <b>Capitalist</b> - Only cares for money, doesn't care for legal rights<br>
+            ❓ <b>Unverified</b> - We have not used or tested.<br>
+            ❌ <b>Trash</b> - Shit services, do not deal with.<br>
+            <br><br>
+            </p>
+            </body>
+            </html>
