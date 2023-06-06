@@ -1,2 +1,2 @@
 # Offshore.CAT
-Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &amp; garbage offshore services that we have either used/have had experience with in the past. 
+Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &amp; garbage offshore services that we have either used/have had experience with in the past. We publish these reports because I'm tired of getting asked what hosting they should use. Offshore.CAT is not affiliated with any of the listed websites, our website takes zero responsibility from illegal or unethical usage. All informations are exposed as-is and might be not up to date if something recently changed.
