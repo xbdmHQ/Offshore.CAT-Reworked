@@ -12,6 +12,11 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 - Want to add more offshore list?, Make a issue or pull request
 - Want to also be on the instance list?, Make a issue or pull request
 
+### Mirror (Backups)
+
+- [My Gitea](https://git.whateveritworks.org/xbdm)
+- [Codeberg](https://codeberg.org/xbdm)
+
 ### Sources
 
 - https://lowendtalk.com/discussion/182615/are-there-any-active-dmca-free-vps-offers-from-top-providers
