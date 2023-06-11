@@ -12,12 +12,3 @@ Crawl-delay: 25
 
 User-agent: MJ12bot
 Crawl-delay: 10
-
-User-agent: ia_archiver
-Disallow: /
-
-User-agent: archive.org_bot
-Disallow: /
-
-User-agent: ia_archiver-web.archive.org
-Disallow: /
