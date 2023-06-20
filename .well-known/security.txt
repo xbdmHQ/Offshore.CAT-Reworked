@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:xbdm@xbdm.fun
+Contact: https://t.me/xbdmHQ
+Contact: https://keybase.io/xbdm
+Expires: 2023-06-20T20:47:00.000Z
+Encryption: https://offshore.xbdm.fun/pgp.txt
+Acknowledgments: https://offshore.xbdm.fun/hall-of-fame.html
+Preferred-Languages: en
+Canonical: https://offshore.xbdm.fun/.well-known/security.txt
+Policy: https://offshore.xbdm.fun/security-policy.html
+Hiring: https://offshore.xbdm.fun/jobs.html
+
+BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zkGkBYAE Oq9WdWr14ksVdbq MUTanaL87eRtbIk nlKBaLTSJfv5IE1 kC96DhciSsiirH9 1K7sgfLsKvdSjXC USMDPuHVKfp8w4t BwGc6y0lkRBjer5 o7zRdSkedQdsKNc bLfiRUe771P8oL6 jsG768hUAhCiakt SY9UVq9pn7A1KbW E5CK0bw5x7a7Eih KaQs4SXu2Jv5dPy Td1apA5fa6A4QoP XnfQ6aFKWQAb8dI 2oqNKZbTf3MIUNP WhfepqkUDCblidz vMnSRpB4eK6oiMG nQMewWCyBkLRmlS NgAnbFGyjpgK0dH cQ5BKOcFPb7263D nUMpKKd28WXHRep qAkDY3lJugXGB9F cKR736VhLYNaRMj tqVIidsYA5jQVjd 6Rr0DMqtI8qCFw6 OcdnOKVFCuOWbC6 b3tU8jfbAYQNXye t7uBkoL87TBvtiR UwSonSh3Q7xBoBV sWxHwSQNPnIbwHB d96HL9wSaSVajmv 7UBaj3QBAlegqaP qmwZypGmDVI1zgm xlyIwMzgI6mQdXq yDwlOHUvv3VyrWH BZ57rr3Ev3TpsBZ iVTC8b4524kMAkj eFRqiU6voe1eYHd gCyFUZfXuw9JnCr SQNUsVXioMoYQDH R7qmcVGYJif87c9 vDnPUGrKpujx8uu alTJVIvXq83kS2R B8qDz2ytcC6aaWL Cnv47y6vkQ5Olju VWno08joTZu0lGS pelpiuI5y7KiC. END KEYBASE SALTPACK SIGNED MESSAGE.
+-----END PGP SIGNATURE-----
