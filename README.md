@@ -20,7 +20,7 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 
 ### GPG/PGP Keyserver Directory (xbdm@xbdm.fun):
 
-- [keybase.io](https://https://keybase.io/xbdm)
+- [keybase.io](https://keybase.io/xbdm)
 - [keyserver.pgp.com](https://keyserver1.pgp.com/vkd/SubmitSearch.event?SearchCriteria=xbdm%40xbdm.fun)
 - [keys.openpgp.org](https://keys.openpgp.org/search?q=xbdm%40xbdm.fun)
 - [pgp.surf.nl](https://pgp.surf.nl/pks/lookup?search=xbdm%40xbdm.fun&fingerprint=on&op=index)
