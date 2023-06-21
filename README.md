@@ -18,6 +18,17 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 - [Codeberg](https://codeberg.org/xbdm)
 - [Sourcehut](https://sr.ht/~xbdm/)
 
+### GPG/PGP Keyserver Directory (xbdm@xbdm.fun):
+
+- [keybase.io](https://https://keybase.io/xbdm)
+- [keyserver.pgp.com](https://keyserver1.pgp.com/vkd/SubmitSearch.event?SearchCriteria=xbdm%40xbdm.fun)
+- [keys.openpgp.org](https://keys.openpgp.org/search?q=xbdm%40xbdm.fun)
+- [pgp.surf.nl](https://pgp.surf.nl/pks/lookup?search=xbdm%40xbdm.fun&fingerprint=on&op=index)
+- [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=xbdm%40xbdm.fun&fingerprint=on&op=index)
+- [pgp.mit.edu](https://pgp.mit.edu/pks/lookup?search=xbdm&op=index&fingerprint=on)
+- [keys.mailvelope.com](https://keys.mailvelope.com/pks/lookup?op=get&search=xbdm@xbdm.fun)
+- [openpgp.circl.lu](https://openpgp.circl.lu/pks/lookup?search=xbdm%40xbdm.fun&fingerprint=on&op=index)
+
 ### Sources
 
 - https://lowendtalk.com/discussion/182615/are-there-any-active-dmca-free-vps-offers-from-top-providers
