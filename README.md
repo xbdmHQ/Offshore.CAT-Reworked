@@ -33,3 +33,4 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 - https://lowendtalk.com/discussion/182615/are-there-any-active-dmca-free-vps-offers-from-top-providers
 - https://lowendtalk.com/discussion/181443/options-for-dmca-free-vps
 - https://lowendtalk.com/discussion/179472/what-are-my-options-for-a-dmca-free-vps
+- https://lowendtalk.com/discussion/182178/list-of-offshore-hostings
