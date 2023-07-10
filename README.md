@@ -9,8 +9,14 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 | [xbdmhq.github.io/Offshore.CAT](https://xbdmhq.github.io/Offshore.CAT/) (Scraped The Source) | GitHub | Microsoft | Netherlands 
 
 ### Contribute
-- Want to add more offshore list?, Make a issue or pull request
-- Want to also be on the instance list?, Make a issue or pull request
+- Want to add more offshore list?, Make a pull request
+- Want to also be on the instance list?, Make a pull request
+
+### TODO
+
+- Increase SEO
+- FIX Mobile Support
+- Add New Catagories
 
 ### Mirror (Backups)
 
@@ -34,3 +40,6 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 - https://lowendtalk.com/discussion/181443/options-for-dmca-free-vps
 - https://lowendtalk.com/discussion/179472/what-are-my-options-for-a-dmca-free-vps
 - https://lowendtalk.com/discussion/182178/list-of-offshore-hostings
+- https://www.blackhatworld.com/seo/list-of-real-offshore-hostings.1028412/
+- https://www.blackhatworld.com/seo/offshore-hosting-a-comprehensive-list.1449217/
+- https://babia.to/threads/list-of-real-offshore-hostings.5868/
