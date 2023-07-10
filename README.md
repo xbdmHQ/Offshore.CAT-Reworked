@@ -17,6 +17,7 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 - Increase SEO
 - FIX Mobile Support
 - Add New Catagories
+- Add Favicon Logo
 
 ### Mirror (Backups)
 
