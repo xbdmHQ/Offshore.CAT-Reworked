@@ -21,8 +21,8 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 
 ### Mirror (Backups)
 
-- [My Gitea](https://git.whateveritworks.org/xbdm)
-- [Codeberg](https://codeberg.org/xbdm)
+- [My Gitea](https://git.whateveritworks.org/xbdm/Offshore.CAT)
+- [Codeberg](https://codeberg.org/xbdm/Offshore.CAT)
 
 ### GPG/PGP Keyserver Directory (xbdm@xbdm.fun):
 
