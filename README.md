@@ -1,12 +1,11 @@
-# Offshore.CAT
-Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &amp; garbage offshore services that we have either used/have had experience with in the past. We publish these reports because I'm tired of getting asked what hosting they should use. 
+# Offshore.CAT-Reworked
+Offshore.CAT-Reworked is a compiled list of the real &amp; genuine, along with the bad &amp; garbage offshore services that we have either used/have had experience with in the past. We publish these reports because I'm tired of getting asked what hosting they should use. 
 
 ### Instances
 
 | Domain | CDN/DDoS Protection | Provider | Country |
 | -- | -- | -- | -- 
-| [https://offshore.cat](https://offshore.cat/) (Official) | Cloudflare | N/A | N/A
-| [xbdmhq.github.io/Offshore.CAT](https://xbdmhq.github.io/Offshore.CAT/) (Scraped The Source) | GitHub | Microsoft | Netherlands 
+| [offshore.xbdm.fun](https://offshore.xbdm.fun) | GitHub | Microsoft | Netherlands 
 
 ### Contribute
 - Want to add more offshore list?, Make a pull request
@@ -21,8 +20,8 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 
 ### Mirror (Backups)
 
-- [My Gitea](https://git.whateveritworks.org/xbdm/Offshore.CAT)
-- [Codeberg](https://codeberg.org/xbdm/Offshore.CAT)
+- [My Gitea](https://git.whateveritworks.org/xbdm/Offshore.CAT-Reworked)
+- [Codeberg](https://codeberg.org/xbdm/Offshore.CAT-Reworked)
 
 ### GPG/PGP Keyserver Directory (xbdm@xbdm.fun):
 
@@ -47,4 +46,4 @@ Offshore.CAT is a compiled list of the real &amp; genuine, along with the bad &a
 
 ### Disclaimer
 
-Offshore.CAT is not affiliated with any of the listed websites, our website takes zero responsibility from illegal or unethical usage. All informations are exposed as-is and might be not up to date if something recently changed.
+Offshore.CAT-Reworked is not affiliated with any of the listed websites, our website takes zero responsibility from illegal or unethical usage. All informations are exposed as-is and might be not up to date if something recently changed.
